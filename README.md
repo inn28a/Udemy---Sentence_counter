@@ -13,3 +13,8 @@ Project is created with:
 ## Overview
 
 ![TextStatistic](https://user-images.githubusercontent.com/49073623/228639360-86e082c3-c52a-41e3-9f91-bcadc2771e8c.gif)
+
+
+### Acknowledgements
+
+* [Project based on this tutorial](https://www.udemy.com/course/web-developer-bootcamp-tworzenie-stron-www-od-zera-do-mastera/)
