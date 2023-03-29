@@ -1,0 +1,62 @@
+html {
+  box-sizing: border-box;
+}
+
+
+body {
+    width: 700px;
+    margin: 0 auto;
+    padding-top: 80px;
+    background-image: linear-gradient(to right, #000000, #572054);
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #111;
+  }
+
+  h1 {
+    font-size: 40px;
+    text-align: center;
+    font-weight: 900;
+    background-image: -webkit-linear-gradient(#fff, #de6fe6);
+    -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text;   
+    margin: 1% 0 3%;
+  }
+
+  textarea:hover {
+    border-color: #ffffff;
+  }
+
+  textarea:focus {
+    border-color: #e25ae6;
+  }
+
+  textarea {
+    width: 100%;
+    height: 200px;
+    padding: 10px;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    font-family: 'Signika Negative', sans-serif;
+    letter-spacing: 1 px;
+    resize: none;
+    line-height: 25px;
+    background: rgba(0, 0, 0, 0.15);
+    box-shadow: 0 4px 30px #1f0421;
+    backdrop-filter: blur(5.1px);
+    -webkit-backdrop-filter: blur(5.1px);
+    color: white;  
+  }
+  
+
+  div{
+    font-size: 15px;
+    text-align: left;
+    font-family: 'Signika Negative', sans-serif;
+    color: #fff;
+    padding-top: 10px;
+    background-image: -webkit-linear-gradient(#fff, #de6fe6);
+    -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text; 
+
+  }
