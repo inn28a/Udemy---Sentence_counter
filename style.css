@@ -41,7 +41,7 @@ body {
     letter-spacing: 1 px;
     resize: none;
     line-height: 25px;
-    background: rgba(0, 0, 0, 0.15);
+    background: rgba(123, 84, 118, 0.15);
     box-shadow: 0 4px 30px #1f0421;
     backdrop-filter: blur(5.1px);
     -webkit-backdrop-filter: blur(5.1px);
